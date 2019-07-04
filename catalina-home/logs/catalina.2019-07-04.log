@@ -1,0 +1,226 @@
+04-Jul-2019 17:51:41.532 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:51:41.543 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:51:41.544 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:51:41.544 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:51:41.825 严重 [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at [catalina-home/temp]
+04-Jul-2019 17:51:45.431 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+04-Jul-2019 17:51:45.432 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+04-Jul-2019 17:51:45.432 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+04-Jul-2019 17:51:45.433 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jul-2019 17:51:45.433 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.5
+04-Jul-2019 17:51:45.434 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jul-2019 17:51:45.434 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04-Jul-2019 17:51:45.435 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+04-Jul-2019 17:51:45.435 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jul-2019 17:51:45.435 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lichangbao/github/tomcat8/catalina-home
+04-Jul-2019 17:51:45.436 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lichangbao/github/tomcat8/catalina-home
+04-Jul-2019 17:51:45.439 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dvisualvm.id=988244307039691
+04-Jul-2019 17:51:45.439 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+04-Jul-2019 17:51:45.439 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+04-Jul-2019 17:51:45.440 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+04-Jul-2019 17:51:45.440 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+04-Jul-2019 17:51:45.441 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jul-2019 17:51:45.441 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+04-Jul-2019 17:51:45.442 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Jul-2019 17:51:45.442 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lichangbao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jul-2019 17:51:46.693 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:51:46.811 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 17:51:46.917 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:51:46.920 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 17:51:46.935 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 5098 ms
+04-Jul-2019 17:51:47.140 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jul-2019 17:51:47.140 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+04-Jul-2019 17:51:47.182 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:51:47.268 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:51:47.280 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 344 ms
+04-Jul-2019 17:53:57.250 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/docs]
+04-Jul-2019 17:53:59.164 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/docs] has finished in [1,913] ms
+04-Jul-2019 17:53:59.165 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/manager]
+04-Jul-2019 17:54:00.022 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/manager] has finished in [857] ms
+04-Jul-2019 17:54:00.048 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/examples]
+04-Jul-2019 17:54:00.356 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+04-Jul-2019 17:54:00.358 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+04-Jul-2019 17:54:00.413 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/examples] has finished in [369] ms
+04-Jul-2019 17:54:00.413 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/ROOT]
+04-Jul-2019 17:54:00.577 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/ROOT] has finished in [163] ms
+04-Jul-2019 17:54:00.577 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/host-manager]
+04-Jul-2019 17:54:00.704 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/host-manager] has finished in [126] ms
+04-Jul-2019 17:54:33.517 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:54:33.545 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:54:33.551 信息 [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jul-2019 17:54:33.595 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:54:33.602 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:54:33.606 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:54:33.607 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:54:38.261 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:54:38.270 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:54:38.270 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:54:38.271 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:54:38.358 严重 [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at [catalina-home/temp]
+04-Jul-2019 17:54:39.672 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+04-Jul-2019 17:54:39.673 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+04-Jul-2019 17:54:39.673 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+04-Jul-2019 17:54:39.673 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jul-2019 17:54:39.674 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.5
+04-Jul-2019 17:54:39.674 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jul-2019 17:54:39.674 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04-Jul-2019 17:54:39.674 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+04-Jul-2019 17:54:39.674 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jul-2019 17:54:39.675 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lichangbao/github/tomcat8/catalina-home
+04-Jul-2019 17:54:39.675 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lichangbao/github/tomcat8/catalina-home
+04-Jul-2019 17:54:39.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dvisualvm.id=988421597400155
+04-Jul-2019 17:54:39.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+04-Jul-2019 17:54:39.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+04-Jul-2019 17:54:39.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+04-Jul-2019 17:54:39.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+04-Jul-2019 17:54:39.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jul-2019 17:54:39.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+04-Jul-2019 17:54:39.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Jul-2019 17:54:39.678 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lichangbao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jul-2019 17:54:39.970 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:54:40.016 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 17:54:40.040 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:54:40.042 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 17:54:40.055 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1691 ms
+04-Jul-2019 17:54:40.156 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jul-2019 17:54:40.157 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+04-Jul-2019 17:54:40.172 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/docs]
+04-Jul-2019 17:54:40.744 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/docs] has finished in [571] ms
+04-Jul-2019 17:54:40.745 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/manager]
+04-Jul-2019 17:54:40.941 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/manager] has finished in [195] ms
+04-Jul-2019 17:54:40.941 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/examples]
+04-Jul-2019 17:54:41.092 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+04-Jul-2019 17:54:41.095 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+04-Jul-2019 17:54:41.113 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/examples] has finished in [170] ms
+04-Jul-2019 17:54:41.113 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/ROOT]
+04-Jul-2019 17:54:41.297 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/ROOT] has finished in [184] ms
+04-Jul-2019 17:54:41.298 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/host-manager]
+04-Jul-2019 17:54:41.446 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/host-manager] has finished in [148] ms
+04-Jul-2019 17:54:41.456 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:54:41.495 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:54:41.497 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1441 ms
+04-Jul-2019 17:56:41.333 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:56:41.356 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:56:41.365 信息 [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jul-2019 17:56:41.439 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:56:41.444 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:56:41.447 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:56:41.448 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:57:04.755 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:57:04.768 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:57:04.768 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:57:04.769 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 17:57:04.915 严重 [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at [catalina-home/temp]
+04-Jul-2019 17:57:08.030 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+04-Jul-2019 17:57:08.031 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+04-Jul-2019 17:57:08.032 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+04-Jul-2019 17:57:08.032 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jul-2019 17:57:08.032 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.5
+04-Jul-2019 17:57:08.033 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jul-2019 17:57:08.033 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04-Jul-2019 17:57:08.034 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+04-Jul-2019 17:57:08.035 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jul-2019 17:57:08.036 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lichangbao/github/tomcat8/catalina-home
+04-Jul-2019 17:57:08.036 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lichangbao/github/tomcat8/catalina-home
+04-Jul-2019 17:57:08.039 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dvisualvm.id=988567249828644
+04-Jul-2019 17:57:08.040 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+04-Jul-2019 17:57:08.040 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+04-Jul-2019 17:57:08.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+04-Jul-2019 17:57:08.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+04-Jul-2019 17:57:08.041 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jul-2019 17:57:08.042 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+04-Jul-2019 17:57:08.043 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Jul-2019 17:57:08.043 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lichangbao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jul-2019 17:57:08.940 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:57:09.088 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 17:57:09.263 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:57:09.265 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 17:57:09.276 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4358 ms
+04-Jul-2019 17:57:09.438 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jul-2019 17:57:09.438 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+04-Jul-2019 17:57:09.478 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/docs]
+04-Jul-2019 17:57:11.896 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 17:57:12.141 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/docs] has finished in [2,662] ms
+04-Jul-2019 17:57:12.142 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/manager]
+04-Jul-2019 17:57:12.820 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 17:57:12.859 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/manager] has finished in [717] ms
+04-Jul-2019 17:57:12.859 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/examples]
+04-Jul-2019 17:57:14.253 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 17:57:14.410 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+04-Jul-2019 17:57:14.411 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+04-Jul-2019 17:57:14.438 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/examples] has finished in [1,578] ms
+04-Jul-2019 17:57:14.438 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/ROOT]
+04-Jul-2019 17:57:15.263 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 17:57:15.270 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/ROOT] has finished in [832] ms
+04-Jul-2019 17:57:15.270 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/host-manager]
+04-Jul-2019 17:57:15.916 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 17:57:15.920 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/tomcat8/catalina-home/webapps/host-manager] has finished in [650] ms
+04-Jul-2019 17:57:15.936 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:57:15.996 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:57:15.999 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 6723 ms
+04-Jul-2019 17:58:11.845 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:58:11.870 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:58:11.884 信息 [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jul-2019 17:58:11.996 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:58:12.005 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 17:58:12.008 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 17:58:12.012 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 18:27:23.080 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/Tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 18:27:23.092 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/Tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 18:27:23.092 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/Tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 18:27:23.092 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/lichangbao/github/Tomcat8/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+04-Jul-2019 18:27:23.177 严重 [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at [catalina-home/temp]
+04-Jul-2019 18:27:24.518 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+04-Jul-2019 18:27:24.519 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+04-Jul-2019 18:27:24.520 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+04-Jul-2019 18:27:24.521 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jul-2019 18:27:24.522 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.5
+04-Jul-2019 18:27:24.523 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jul-2019 18:27:24.523 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+04-Jul-2019 18:27:24.524 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+04-Jul-2019 18:27:24.525 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jul-2019 18:27:24.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lichangbao/github/Tomcat8/catalina-home
+04-Jul-2019 18:27:24.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lichangbao/github/Tomcat8/catalina-home
+04-Jul-2019 18:27:24.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dvisualvm.id=990386074820848
+04-Jul-2019 18:27:24.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+04-Jul-2019 18:27:24.532 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+04-Jul-2019 18:27:24.532 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+04-Jul-2019 18:27:24.532 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+04-Jul-2019 18:27:24.532 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jul-2019 18:27:24.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+04-Jul-2019 18:27:24.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Jul-2019 18:27:24.533 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lichangbao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jul-2019 18:27:24.914 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 18:27:24.970 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 18:27:25.015 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 18:27:25.021 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Jul-2019 18:27:25.030 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1846 ms
+04-Jul-2019 18:27:25.208 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jul-2019 18:27:25.208 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+04-Jul-2019 18:27:25.241 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/docs]
+04-Jul-2019 18:27:26.437 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 18:27:26.545 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/docs] has finished in [1,303] ms
+04-Jul-2019 18:27:26.545 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/manager]
+04-Jul-2019 18:27:26.744 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 18:27:26.770 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/manager] has finished in [225] ms
+04-Jul-2019 18:27:26.771 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/examples]
+04-Jul-2019 18:27:27.204 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 18:27:27.236 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+04-Jul-2019 18:27:27.237 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+04-Jul-2019 18:27:27.255 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/examples] has finished in [484] ms
+04-Jul-2019 18:27:27.255 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/ROOT]
+04-Jul-2019 18:27:27.506 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 18:27:27.510 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/ROOT] has finished in [255] ms
+04-Jul-2019 18:27:27.510 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/host-manager]
+04-Jul-2019 18:27:27.697 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jul-2019 18:27:27.700 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lichangbao/github/Tomcat8/catalina-home/webapps/host-manager] has finished in [190] ms
+04-Jul-2019 18:27:27.707 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 18:27:27.774 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 18:27:27.777 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2745 ms
+04-Jul-2019 18:27:37.809 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 18:27:37.850 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 18:27:37.857 信息 [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jul-2019 18:27:37.965 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 18:27:37.971 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Jul-2019 18:27:37.978 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jul-2019 18:27:37.979 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

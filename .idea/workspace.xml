@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Spring_Study" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../disruptor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring_study" value="PREVIEW" />
+        <entry key="$USER_HOME$/resource-code/kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/resource-code/kafka-1.1.1-src" value="PREVIEW" />
+        <entry key="$USER_HOME$/resource-code/kafka-2.1.1-src" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-452" />
+    <option name="y" value="-1080" />
+    <option name="width" value="2048" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bootstrap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.apache.catalina.startup.Bootstrap" />
+      <module name="Tomcat8.0" />
+      <option name="VM_PARAMETERS" value="-Dcatalina.home=catalina-home -Dcatalina.base=catalina-home -Djava.endorsed.dirs=catalina-home/endorsed -Djava.io.tmpdir=catalina-home/temp -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djava.util.logging.config.file=catalina-home/conf/logging.properties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
